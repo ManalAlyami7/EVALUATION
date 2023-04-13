@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SQLDemo</string>
+    <string name="StudentName">Student Name</string>
+    <string name="StudentAge">Age</string>
+    <string name="ADD">ADD</string>
+    <string name="viewall">View all</string>
+</resources>
